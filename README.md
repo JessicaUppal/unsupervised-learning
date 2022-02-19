@@ -36,7 +36,7 @@ Finally, Data visualisation is utilised to share findings with potential ivestor
 ![Elbow_Plot](Resources/elbow_plot.png)
 
 
-![Final Cluster](Resources/t-snse_cluster.png)
+![Final Cluster](Resources/t-sne_cluster.png)
 
 ## References
 
