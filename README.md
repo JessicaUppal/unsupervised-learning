@@ -25,12 +25,18 @@ Finally, Data visualisation is utilised to share findings with potential ivestor
 * Applied t-SNE to PCA output and created a scatter plot to visualise results of the t-SNE output, to determine if any distinct clusters are present.
 
 
+![Scatter Plot](Resources/scatter_plots.png)
 
-![Scatter Plot](Resources/t-sne_cluster.png)
+![Predicted Cluster](Resources/predicted_cluster.png)
 
 ### Cluster Analysis with k-Means
 
 * Created an elbow plot to identify the best number of clusters. 
+
+![Elbow_Plot](Resources/elbow_plot.png)
+
+
+![Final Cluster](Resources/t-snse_cluster.png)
 
 ## References
 
