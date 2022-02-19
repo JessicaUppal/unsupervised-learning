@@ -35,7 +35,9 @@ Finally, Data visualisation is utilised to share findings with potential ivestor
 
 ![Elbow_Plot](Resources/elbow_plot.png)
 
+* The k-means algorithm using t-SNE shows that around 6 clusters are needed, as seen in the elbow plot. 
 
+* Visualisation illustrates that the clusters aren't clear 
 ![Final Cluster](Resources/t-sne_cluster.png)
 
 ## References
